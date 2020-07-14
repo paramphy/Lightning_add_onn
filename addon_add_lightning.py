@@ -159,9 +159,9 @@ class AddLightningObject(Operator, AddObjectHelper):
 
 def add_object_button(self, context):
     self.layout.operator(
-        OBJECT_OT_add_object.bl_idname,
+        AddLightningObject.bl_idname,
         text="Add Lightning Object",
-        icon='PLUGIN')
+        icon='MOD_NOISE')
 
 
 # This allows you to right click on a button and link to documentation
