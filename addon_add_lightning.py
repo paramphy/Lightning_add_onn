@@ -91,7 +91,7 @@ def lightning_mesh(location=(0, 0, 0)):
     
     #Extruding Cube Object
     
-    while count < 10:
+    while count < 15:
         object_extrude()
         count += 1
         
