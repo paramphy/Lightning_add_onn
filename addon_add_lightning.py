@@ -61,8 +61,8 @@ def object_extrude():
         
     #Choosing a random face to extrude 
             
-    rand_face = random.randint(0,i)
-    
+    rand_face = random.randint(0,i-1)
+        
     #Deselecting All faces
     
     for face in bm.faces:
@@ -104,8 +104,8 @@ def lightning_mesh(location=(0, 0, 0)):
     
     bpy.ops.object.modifier_add(type='DISPLACE')
     bpy.ops.texture.new()
-    bpy.data.textures["Texture.001"].type = 'CLOUDS'
-    bpy.data.textures["Texture.001"].noise_scale = 0.5
+    bpy.data.textures["Texture"].type = 'CLOUDS'
+    bpy.data.textures["Texture"].noise_scale = 0.5
     
     #Adding Key frame to the displacemnt Modifier
     
@@ -196,7 +196,7 @@ def lightning_material():
 
     
 def lightning():
-
+    
     lightning_mesh()
     lightning_material()
     
