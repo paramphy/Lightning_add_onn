@@ -8,6 +8,7 @@ A simple Blender add-on to summon lightning.
 * Add a spaceship in the 3D View under Add > Mesh > Lightning Addon
 # Features
 # Tutorial
+Youtube Tutorial: https://youtu.be/KQ4aiqwIcSI
 # 
 
  
