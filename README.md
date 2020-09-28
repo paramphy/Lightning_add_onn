@@ -1,5 +1,6 @@
 # Blender 2.83 Lightning Addon
 A simple Blender add-on to summon lightning.
+Anyone interested are wellcome to fork this repository.
 
 # Download/Installation
 * Download newest addon_add_lightning.py from https://github.com/paramphy/Lightning_add_onn/blob/master
