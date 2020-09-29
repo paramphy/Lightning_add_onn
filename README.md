@@ -8,8 +8,12 @@ Anyone interested are wellcome to fork this repository.
 * Under Edit > Preferences... > Add-ons enable the "Add Mesh: Lightning Addon" script
 * Add a spaceship in the 3D View under Add > Mesh > Lightning Addon
 # Features
-# Tutorial
-Youtube Tutorial: https://youtu.be/KQ4aiqwIcSI
-# 
+![alt text](untitled.png)
+# Youtube Tutorial
+
+[![Youtube Tutorial](https://youtu.be/KQ4aiqwIcSI/0.jpg)](https://youtu.be/KQ4aiqwIcSI)
+
+
+
 
  
