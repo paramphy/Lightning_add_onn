@@ -11,7 +11,8 @@ Anyone interested are wellcome to fork this repository.
 ![alt text](untitled.png)
 # Youtube Tutorial
 
-[![alt text](https://img.youtube.com/vi/KQ4aiqwIcSI/0.jpg)](http://www.youtube.com/watch?v=KQ4aiqwIcSI)
+
+[![](https://img.youtube.com/vi/KQ4aiqwIcSI/10.jpg)](http://www.youtube.com/watch?v=KQ4aiqwIcSI)
 
 
 
